@@ -5,4 +5,4 @@ All AWS projects
 ```bash
 1   Image files are here
 
-![image1](image/image1.jpg)
+![Design](image/image1.jpg)
